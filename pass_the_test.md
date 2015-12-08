@@ -1,10 +1,10 @@
 # Pass the test
 
-You must pass at least one of the Operation Spark Bootcamp entrance tests.  You will be tested at Operation Spark HQ under a time limit.
+You must pass at least one of the Operation Spark Bootcamp entrance tests. The test will be conducted either at your school or at Operation Spark HQ under a time limit.
 
 ## Take Away
 
-Below are the concepts you should come away with and on which you’ll be quizzed.  **You will want to make notes on these items as you go through the Prep material and ENSURE you understand them.**  If you’re fuzzy on some points, Googling is the best way to figure it out.  Self-directed learning and research is the BEST way to solve micro-problems when attacking complex problems in software development, so you should early on practice and develop the reflex to Google-it!
+Below are the concepts you should come away with and on which you’ll be quizzed.  **You will want to make notes on these items as you go through the Prep material and ENSURE you understand them.**  If you’re fuzzy on some points, Googling is the best way to figure it out.  Self-directed learning and research is the BEST way to solve small problems when attacking complex problems in software development, so you should early on practice and develop the reflex to Google-it!
 
 Finally, we have more reading resources online at Operation Spark that cover all topics addressed.  See the table of contents for this material, here:
 
