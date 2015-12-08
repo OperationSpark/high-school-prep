@@ -8,11 +8,7 @@ The point of the Operation Spark Prep program is to give you an introduction to 
 
 We want everyone to try their hand at software development! It is highly probable that if you enjoy this material, there's a fantastic career waiting for you in software engineering!
 
-Operation Spark offers the quickest path to employment as a software engineer:
 
-1. **Prep:** The Prep program is the first phase of Operation Spark journey. You can complete Prep program on any Internet connected computer, whether at home, at school, or at the library. You and your teacher and fellow students can form a software club, and together work on the Prep material.
-
-2. **Bootcamp:** (Prerequisites : Prep)  
 
 
 To secure your spot in a Bootcamp, in seven steps, you must exhibit desire, commitment, grit and aptitude by **complete all of the following, in order**. It should take you between 10 to 25 hours to complete and must be done at least a week or two before the start of class.
