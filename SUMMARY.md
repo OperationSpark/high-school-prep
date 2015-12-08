@@ -4,7 +4,6 @@
 * [About Operation Spark](about_operation_spark.md)
 * [Problem Solving](problem_solving.md)
 * [Interview](interviewmd.md)
-* [Study at HQ](study_at_hq.md)
 * [Typing Skills](typing_skills.md)
 * [First Website Project](first_website_project.md)
 * [Intro to JavaScript](intro_to_javascript.md)
