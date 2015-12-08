@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * About Operation Spark
+* Problem Solving
 * [Interview](interviewmd.md)
 * [Study at HQ](study_at_hq.md)
 * [Typing Skills](typing_skills.md)
@@ -9,5 +10,4 @@
 * [Intro to JavaScript](intro_to_javascript.md)
 * [Free Code Camp](free_code_camp.md)
 * [Pass the test](pass_the_test.md)
-* Problem Solving
 
