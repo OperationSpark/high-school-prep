@@ -1,4 +1,4 @@
-# Interview
+# Get Connected
 
 We want to know your goals, aspirations, and how serious you are about learning how to code. 
 
