@@ -10,5 +10,5 @@
 * [Free Code Camp](free_code_camp.md)
 * [A Smarter Way to Learn JavaScript](a_smarter_way_to_learn_javascript.md)
 * [Pass the test](pass_the_test.md)
-* Take Away
+* [Take Away](take_away.md)
 
