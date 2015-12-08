@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * About Operation Spark
-* Problem Solving
+* [Problem Solving](problem_solving.md)
 * [Interview](interviewmd.md)
 * [Study at HQ](study_at_hq.md)
 * [Typing Skills](typing_skills.md)
