@@ -1,7 +1,10 @@
 Welcome
 =======
 
-Welcome Agent! We’re super excited to learn some code with you. The point of the Operation Spark Prep program is to give you an introduction to the awesomeness of software development. It is also designed to prepare you to take the next step in our training.
+Welcome Agent! We're super excited to start coding together and building websites, apps and games! 
+
+
+The point of the Operation Spark Prep program is to give you an introduction to the awesomeness of software development. It is also designed to prepare you to take the next step in our training.
 
 We want everyone to try their hand at software development! It is highly probable that if you enjoy this material, there's a fantastic career waiting for you in software engineering!
 
