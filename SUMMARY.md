@@ -6,7 +6,7 @@
 * [Problem Solving](problem_solving.md)
 * [Step One : Start](step-one-start.md)
 * [Step Two : Typing Skills](step-two-typing-skills.md)
-* [First Website Project](first_website_project.md)
+* [Step 3 : First Website Project](step-three-first-website-project.md)
 * [Intro to JavaScript](intro_to_javascript.md)
 * [Free Code Camp](free_code_camp.md)
 * [A Smarter Way to Learn JavaScript](a_smarter_way_to_learn_javascript.md)
