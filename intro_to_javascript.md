@@ -10,4 +10,4 @@ Once that's complete begin the basic JavaScript course:
 
 https://www.khanacademy.org/computing/computer-programming/programming
 
-Little know fact: The guy who started Khan Academy, Sal Khan, is from Metairie! 
+Little know fact: The guy who started Khan Academy, Sal Khan, is from Metairie!
