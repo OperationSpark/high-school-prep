@@ -5,7 +5,7 @@
 * [About Operation Spark](about_operation_spark.md)
 * [Problem Solving](problem_solving.md)
 * [Step One : Start](step-one-start.md)
-* [Typing Skills](typing_skills.md)
+* [Step Two : Typing Skills](step-two-typing-skills.md)
 * [First Website Project](first_website_project.md)
 * [Intro to JavaScript](intro_to_javascript.md)
 * [Free Code Camp](free_code_camp.md)
