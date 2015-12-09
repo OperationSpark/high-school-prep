@@ -4,7 +4,7 @@
 * [Take Away](take_away.md)
 * [About Operation Spark](about_operation_spark.md)
 * [Problem Solving](problem_solving.md)
-* [Interview](interviewmd.md)
+* [Step One : Start](step-one-start.md)
 * [Typing Skills](typing_skills.md)
 * [First Website Project](first_website_project.md)
 * [Intro to JavaScript](intro_to_javascript.md)
