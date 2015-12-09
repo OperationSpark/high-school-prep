@@ -3,7 +3,9 @@ Welcome
 
 Welcome Agent! We're super excited to start coding together and building websites, apps and games! 
 
-The Operation Spark Prep program is a collection of resources, coding exercises and projects that showcase the awesomeness of software development. It is also designed to prepare you to take the next step in our training.
+The Operation Spark Prep program is a collection of resources, coding exercises and projects that showcase the awesomeness of software development. 
+
+It is also designed to prepare you to take the next step in our training.
 
 We want everyone to try their hand at software development! It is highly probable that if you enjoy this material, there's a fantastic career waiting for you in software engineering!
 
