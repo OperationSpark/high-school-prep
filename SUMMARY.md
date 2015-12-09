@@ -12,5 +12,4 @@
 * [Step 6 : A Smarter Way to Learn JavaScript](step-six-a-smarter-way-to-learn-javascript.md)
 * Step 7 : Workshop
 * [Step 8 : Rock the Interview and Quiz](step-eight-rock-the-interview-and-quiz.md)
-* [Pass the test](pass_the_test.md)
 
