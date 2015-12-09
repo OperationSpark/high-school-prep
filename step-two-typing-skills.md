@@ -1,6 +1,6 @@
 # Step 2 : Typing Skills
 
-# Typing Skills
+You need to be able to type with two hands on the keyboard, so let's get you there!
 
 Ensure you can type at least 30 words per minute (WPM) by using this website:
 
