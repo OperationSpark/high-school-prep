@@ -8,14 +8,14 @@ Operation Spark offers the quickest path to employment as a software engineer. Y
 
 * **Bootcamp:** (Prerequisites : Prep) Our one-month coding Bootcamp is a deep dive into JavaScript.  The course focus on basic programming concepts, functional programming, and basic web development. Students qualify for Bootcamp once they've fully completed the Prep program material and passed the Bootcamp entrance coding quiz.
 
-    Bootcamp prepares students for entry into both our Jr Ready and or our three month, Immersion program.
+    Bootcamp prepares students for entry into both our 6 week JR Ready and or our three month, Immersion program.
 
     * 3 hours a day, 5 days a week for 4 weeks.
     * HTML, CSS, and the fundamentals of JavaScript, the programming language of the Internet and functional programming.
     * Students come away with a project-based portfolio.
     
     
-* **Jr Ready:** (Prerequisites : Prep, Bootcamp) In the Jr Ready program, students work with mentors to complete a series of real-world projects.  Students practice meeting project deadlines.  The program leans heavily on the use of industrial workflow and team communication. Graduates of the Jr Ready can expect to earn a paid internship or a position as a junior software developer.
+* **JR Ready:** (Prerequisites : Prep, Bootcamp) In the JR Ready program, students work with mentors to complete a series of real-world projects.  Students practice meeting project deadlines.  The program leans heavily on the use of industrial workflow and team communication. Graduates of the Jr Ready can expect to earn a paid internship or a position as a junior software developer.
     
     * 6 weeks, 6 projects, mentoring, professional workflow.
     
