@@ -10,7 +10,7 @@
 * [Step 4 : Intro to JavaScript](step-four-intro-to-javascript.md)
 * [Step 5 : Free Code Camp](step-five-free-code-camp.md)
 * [Step 6 : A Smarter Way to Learn JavaScript](step-six-a-smarter-way-to-learn-javascript.md)
-* Step 7 : Workshop
+* [Step 7 : Workshop](step-seven-workshop.md)
 * [Step 8 : Rock the Interview and Quiz](step-eight-rock-the-interview-and-quiz.md)
 * Continued Learning
 
