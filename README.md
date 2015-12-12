@@ -3,13 +3,26 @@ Operation Spark : Prep
 ===
 ## Welcome Agent!
 
-We're super excited to start coding together! You will learn to write HTML, CSS and JavaScript to build websites, apps and games! 
+We're super excited to start coding together! You will learn to write HTML, CSS and JavaScript to build websites, apps and games!
+
+Operation Spark offers the quickest path to employment as a software engineer. You can go from **High School to High Wage** in less than six months!
+
+### High School to High Wage
+
+We're offering two programs to you while you're still in high-school:
+
+1. Prep: A self-guided intro to software development building websites and games.
+2. Bootcamp: A month long study of JavaScript programming
+
+The final 
 
 ### Prep
 
 The Prep program will introduce you to what life is like as a professional software developer. It is also designed to prepare you to take the next step in our training, which is why we called the program, Prep!
 
 We want everyone to try their hand at software development! If you like this material, there's a fantastic career waiting for you in software engineering!
+
+### Next Steps
 
 **To move on in our training, students must fully complete all eight steps of the Prep program**.  In doing so, you will exhibit the desire, commitment, grit and aptitude to succeed in our programming.
 
