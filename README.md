@@ -3,9 +3,7 @@ Operation Spark : Prep
 ===
 ## Welcome Agent!
 
-| We're super excited to start coding together! You will learn to write HTML, CSS and JavaScript to build websites, apps and games! |  |
-
-<img src="halle.png" width="100" />
+We're super excited to start coding together! You will learn to write HTML, CSS and JavaScript to build websites, apps and games!
 
 Operation Spark offers the quickest path to employment as a software engineer. You can go from **High School to High Wage** in less than six months!
 
