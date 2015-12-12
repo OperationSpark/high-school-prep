@@ -1,9 +1,11 @@
-Welcome
-=======
+<img src="Robot_Mascot_2.png" /> 
+Operation Spark : Prep
+===
+## Welcome Agent!
 
-Welcome Agent! We're super excited to start coding together and building websites, apps and games! 
+We're super excited to start coding together and building websites, apps and games! 
 
-The Operation Spark Prep program is a collection of resources, coding exercises and projects that showcase the awesomeness of software development. 
+Prep program is a collection of resources, coding exercises and projects that introduce you to the world of software development.
 
 It is also designed to prepare you to take the next step in our training.
 
