@@ -1,10 +1,24 @@
 # Step 5 : Free Code Camp
 
-Free Code Camp is an amazing resource for learning to build software projects. 
+Free Code Camp is an amazing resource for learning to build software projects. There are interactive lessons, projects, and an online chat group where you can get immediate help!
 
-On [Free Code Camp](http://freecodecamp.com) **register via GitHub**.
+##Register
 
-We would like to see you complete sections 1 through 9, from Free Code Camp. 
+The first step to getting started
+on [Free Code Camp](http://freecodecamp.com) is to **register via GitHub**.
+
+**IMPORTANT : MAKE SURE YOU LOGIN USING GITHUB, OR YOUR CHANGES WILL NOT BE SAVED!**
+
+##Required Sections
+
+For Operation Spark's Prep program, you are only required to complete sections 6 and 7
+
+* (5 hours) [Basic JavaScript](http://www.freecodecamp.com/map#basic-javascript)
+* (2 hours) [Object Oriented and Functional Programming](http://www.freecodecamp.com/map#object-oriented-and-functional-programming)
+
+##Rock Star
+
+Many of our successful students, however, completed sections 1 through 9. We would like to see you complete sections 1 through 9. Here's the breakdown: 
 
 1. (10 minutes) [Get Started with Free Code Camp](http://www.freecodecamp.com/map#get-started-with-free-code-camp)
 2. (5 hours) [HTML5 and CSS](http://www.freecodecamp.com/map#html5-and-css)
@@ -16,11 +30,3 @@ We would like to see you complete sections 1 through 9, from Free Code Camp.
 
 Total coding and instructional time: 20 hours and 30 minutes.
 
-Complete the Basic JavaScript AND Object Oriented and Functional Programming tracts, which can be found in the list of material under the top-right nav item, MAP (http://freecodecamp.com/map).  
-
-**IMPORTANT : MAKE SURE YOU ARE LOGGED IN USING GITHUB, OR YOUR CHANGES WILL NOT BE SAVED!**
-
-See:
-
-* http://freecodecamp.com/map#basic-javascript
-* http://freecodecamp.com/map#object-oriented-and-functional-programming
