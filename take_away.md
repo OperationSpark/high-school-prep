@@ -14,7 +14,6 @@ https://github.com/OperationSpark/javascript-wiki/wiki
 
 Here’s what you should understand at the end of Prep:
 
-
 1. What are variables? How do we define them and why do we use them?
 2. What are some of the basic built-in data types? By data types, we mean, types of things - the things you use in your app.
 3. What is a String? How do we often use them? What are some methods to manipulate Strings? How do we access individual characters in a String? How do we split a String in two?
