@@ -8,7 +8,9 @@ If you crush it in Prep and want to keep learning (and we hope you do), here's s
 
 3. **Code Wars:** Once you're feeling like you could hack Facebook, [try battling it out on Code Wars!](http://www.codewars.com/)
 
-4. **JavaScript, the Weird Parts:** [This video is a great deep dive into the crazy world of JavaScript.](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) Grab some popcorn and nerd out! 
+4. **JavaScript, the Weird Parts:** [This video is a great deep dive into the crazy world of JavaScript.](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) Grab some popcorn and nerd out!
+
+See you in Bootcamp!
 
 
 
