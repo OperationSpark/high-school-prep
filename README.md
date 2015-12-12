@@ -20,7 +20,7 @@ There's three parts to Operation Spark, and we're offering two of them to you wh
 
 ####After High School
 
-The third part of our programming is available to you upon high school graduation. Students elect to take one of the following courses:
+The third part of our programming is available to you upon high school graduation. Students elect to **take one of the following courses**:
 
 * **Midway:** A project based mentoring program that brings you to the level of a paid internship or junior developer.
 * **Immersion:** A 3 month deep dive, where students master software engineering, studying 6 days a week, 11 hours a day. Graduates of this program are in-demand, and gain immediate employment earning high salaries.
