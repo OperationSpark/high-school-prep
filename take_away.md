@@ -15,7 +15,7 @@ Here’s what you should understand at the end of Prep:
 
 1. What are variables? How do we define them and why do we use them?
 2. What are some of the basic built-in data types? By data types, we mean, types of things - the things you use in your app.
-3. What is a String? How do we often use them?
+3. What is a String? How do we often use them? What are some methods to manipulate Strings? How do we access individual characters in a String? How do we split a String in two?
 4. What is a Boolean? When would we use a Boolean?
 5. What is an Array, why do we use them, how do we access their elements, and what is the syntax for creating a literal Array?
 6. What is an Object, how do they differ from Arrays, how do we access their values, and what is the syntax for creating a literal Object?
