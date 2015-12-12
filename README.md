@@ -36,7 +36,7 @@ We want everyone to try their hand at software development! If you like this mat
 
 ## Next Steps
 
-**To move on in our training, students must fully complete all eight steps of the Prep program**.  In doing so, you will exhibit the desire, commitment, grit and aptitude to succeed in Operation Spark.
+**To move on in our training to Bootcamp, students must fully complete all eight steps of the Prep program**.  In doing so, you will exhibit the desire, commitment, grit and aptitude to succeed in Operation Spark.
 
 Once you've completed all steps, if you want to move on to an awesome career in software development, <a href="https://operationspark-prep.youcanbook.me/">book an appointment with Operation Spark.</a>
 
