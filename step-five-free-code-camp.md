@@ -7,7 +7,7 @@ Free Code Camp is an amazing resource for learning to build software projects. T
 The first step to getting started
 on [Free Code Camp](http://freecodecamp.com) is to **register via GitHub**.
 
-**IMPORTANT : MAKE SURE YOU LOGIN USING GITHUB, OR YOUR CHANGES WILL NOT BE SAVED!**
+**IMPORTANT : MAKE SURE YOU LOGIN USING GITHUB, OR YOU WILL LOSE YOUR CHANGES!**
 
 ##Required Sections
 
