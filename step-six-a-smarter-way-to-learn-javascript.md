@@ -10,4 +10,7 @@ All Operation Spark students have free access to the book and coding exercises. 
 
 <a href="http://www.asmarterwaytolearn.com/js/js_for_spark.pdf" target="_blank">Click here to go to the online version of A Smarter Way to Learn JavaScript</a>
 
+You must complete all exercises listed in the book!
+
+
 
