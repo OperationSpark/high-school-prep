@@ -6,7 +6,7 @@ Operation Spark offers the quickest path to employment as a software engineer. Y
 
     You can complete Prep program on any Internet connected computer, whether at home, at school, or at the library. You and your teacher and fellow students can form a software club, and together work on the Prep material.
 
-* **Bootcamp:** (Prerequisites : Prep) Our one-month coding Bootcamp is a deep dive into JavaScript.  The course focuses on basic concepts, functional programming, and web development. Students qualify for Bootcamp once they've fully completed the Prep program material and passed the Bootcamp entrance coding quiz.
+* **Bootcamp:** (Prerequisites : Prep) Our one-month coding Bootcamp is a deep dive into JavaScript.  The course focuses on basic concepts, functional programming, and web development. Students qualify for Bootcamp once they've fully completed the Prep material and passed the end-of-prep interview and coding quiz.
 
     Bootcamp prepares students for entry into both our 6 week JR Ready and or our three month, Immersion program.
 
