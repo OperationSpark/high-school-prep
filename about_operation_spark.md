@@ -28,6 +28,6 @@ Operation Spark offers the quickest path to employment as a software engineer. Y
     * Learn effective communication, workflow management, product development, application deployment, and team dynamics.
  
 
-* **Get Hired:** Students completing our Immersion program undergone the best training available in software development to become highly skilled engineers.  They are workforce ready, and can hit the ground running on day one.
+* **Get Hired:** Graduates of Operation Spark complete the best training available in software development. They become highly skilled engineers.  They are workforce ready, and can hit the ground running on day one.
 
     Throughout the program, we keep every student’s job search in mind. By graduation, they have a solid Github presence, tons of technical interview experience, a personal site, LinkedIn profile and resume. We guide them through their job search with mock interviews, mentoring and more, and ensure they land a great job in software development.
