@@ -24,3 +24,7 @@ Here’s what you should understand at the end of Prep:
 7. What is a conditional statement (if statement). Why do we use them and what is the syntax for creating one?
 8. What is a loop, why do we use loops, and, naming one, what is the syntax for creating that loop?
 9. What is a function, how do we define a function, how do we call (or execute) a function, and what do we use them?  What are parameters and what is a return value?
+
+[Here's a link to a Google Doc that includes the above points.](https://docs.google.com/document/d/1s5rlBHHKQIjQ7OMvwpTEQsgWWSZPIAUMwUB0J0U8tjE/edit?usp=sharing). Make a copy of this Google Doc, then make your notes therein.
+
+
