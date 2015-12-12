@@ -3,7 +3,7 @@ Operation Spark : Prep
 ===
 ## Welcome Agent!
 
-We're super excited to start coding together! You will learn HTML, CSS and JavaScript, and build websites, apps and games! 
+We're super excited to start coding together! You will learn to write HTML, CSS and JavaScript to build websites, apps and games!
 
 The Prep program will introduce you to what life is like as a professional software developer. It is also designed to prepare you to take the next step in our training, which is why we called the program, Prep!
 
