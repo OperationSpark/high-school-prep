@@ -2,7 +2,7 @@
 
 Below are the concepts you should come away with, and on which we will quiz you.
 
-**You will want to make notes on these items as you go through the Prep material and ENSURE you understand them. During your end-of-prep interview, we will ask to see your notes on the list of topics** 
+**You will want to make notes on these items as you go through the Prep material and ENSURE you understand them. During your end-of-prep interview, we will ask to see your notes on the list of topics.**
 
 If you’re fuzzy on some points, Googling is the best way to figure it out.  Self-directed learning and research is the BEST way to solve small problems when attacking complex problems in software development, so you should early on practice and develop the reflex to Google-it!
 
