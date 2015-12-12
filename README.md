@@ -7,6 +7,8 @@ We're super excited to start coding together! You will learn to write HTML, CSS 
 
 Operation Spark offers the quickest path to employment as a software engineer. You can go from **High School to High Wage** in less than six months!
 
+Does it pay well? You bet! If you're good at writing code, you can earn serious bank! And you don't need to go to university or college to gain the skills. 
+
 ## High School to High Wage
 
 There's three parts to Operation Spark, and we're offering two of them to you while you're _still in high-school_:
