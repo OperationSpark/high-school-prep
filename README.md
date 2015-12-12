@@ -13,8 +13,8 @@ Does it pay well? You bet! If you're good at writing code, you can earn serious 
 
 There's three parts to Operation Spark, and we're offering two of them to you while you're _still in high-school_:
 
-1. Prep: A self-guided intro to software development, building websites and games.
-2. Bootcamp: A month long study of JavaScript programming.
+1. Prep: A self-guided intro to software development, building websites and games. Prep is open and free for all high school students.
+2. Bootcamp: A month long study of JavaScript programming. Bootcamp is open to senior students that have completed the Prep program.
 
 The third part of our programming is available to you upon high school graduation.
 
