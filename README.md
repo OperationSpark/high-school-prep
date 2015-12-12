@@ -2,9 +2,6 @@
 Operation Spark : Prep
 ===
 ## Welcome Agent!
-<div style="float:right;margin:0 10px 10px 0" markdown="1">
-    <img src="halle.png" width="100">
-</div>
 
 
 We're super excited to start coding together and building websites, apps and games! 
