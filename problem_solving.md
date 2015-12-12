@@ -1,8 +1,14 @@
 # Problem Solving
 
-Before we start, we want you to remember this: Learning to write software is fun and cool, and at times, _can be tricky_. Fear not! You are an Agent of Awesome, and you can handle this mission. Be patient with yourself and your teachers, and you will succeed. Traits that will help you:
+Before we start, we want you to remember this: Learning to write software is fun and cool, and at times, _can be tricky_. Fear not! 
 
-Be autodidatic - self-directed in your learning. You should struggle to find answers, this is a good thing! Try to solve the problem yourself, try to find answers to your problems on the Internet. You must develop the reflex to be self-sufficient in your work - this is the single most important skill you can develop.
+You are an Agent of Awesome, and you can handle this mission. Be patient with yourself and your teachers, and you will succeed. Traits that will help you:
+
+* Be autodidatic - self-directed in your learning.
+* You should struggle to find answers, this is a good thing!
+* Try to solve the problem yourself.
+* Next, try to find answers to your problems on the Internet.
+* You must develop the reflex to be self-sufficient in your work - this is the single most important skill you can develop.
 
 Here's some steps to help you when you come up against a problem:
 
