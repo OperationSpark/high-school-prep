@@ -9,7 +9,9 @@ It is also designed to prepare you to take the next step in our training.
 
 We want everyone to try their hand at software development! It is highly probable that if you enjoy this material, there's a fantastic career waiting for you in software engineering!
 
-In order to move on in our training, students must fully complete all *****seven steps of the Prep program.  In doing so, you will exhibit the desire, commitment, grit and aptitude to succeed in our programming. Do all the steps, and do them in the proper order.
+**To move on in our training, students must fully complete all eight steps of the Prep program**.  In doing so, you will exhibit the desire, commitment, grit and aptitude to succeed in our programming.
+
+Please do all the steps, and do them in the proper order.
 
 It should take you between 10 to 25 hours to complete and all steps must be complete _before_ you apply to Bootcamp.
 
