@@ -1,3 +1,10 @@
 # Step 1 : Get Started
 
-If you want to build awesome websites, video games and learn to code, start a software club at your school! Challenge each other to finish each step. Who will finish first!
+If you want to build awesome websites, video games and learn to code, start a software club at your school! Challenge each other to finish each step. Who will finish first? Host a competition - who has the best website?
+
+Here's some tips to get you started:
+
+* Bug one of your teachers to help you organize your club
+* Meet at least twice a week, maybe three times, or if you're really serious, everyday.
+* Rock out the steps!
+* Don't stop!
