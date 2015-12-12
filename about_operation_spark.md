@@ -1,5 +1,7 @@
 # About Operation Spark
 
+See [operationspark.org](operationspark.org)
+
 Operation Spark offers the quickest path to employment as a software engineer. You can go from **High School to High Wage** in less than six months! Here's how our programming works:
 
 * **Prep:** The Prep program is the first phase of Operation Spark journey. Prep includes projects and coding exercises to help you acquire the skills to move forward into our intensive coding Bootcamp.
