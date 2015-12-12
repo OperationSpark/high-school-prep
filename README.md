@@ -19,6 +19,9 @@ The third part of our programming is available to you upon high school graduatio
 4. Midway
 5. Immersion
 
+The program outlined in this book is **Prep**.
+
+
 ## Prep
 
 The Prep program will introduce you to what life is like as a professional software developer. It is also designed to prepare you to take the next step in our training, which is why we called the program, Prep!
