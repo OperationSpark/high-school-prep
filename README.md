@@ -1,4 +1,4 @@
-<img src="Robot_Mascot_2.png" /> 
+<img src="halle.png" width="100" style="float: right;" /> 
 Operation Spark : Prep
 ===
 ## Welcome Agent!
