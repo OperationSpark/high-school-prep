@@ -4,7 +4,8 @@ If you want to build awesome websites, video games and learn to code, start a so
 
 Here's some tips to get you started:
 
-* Bug one of your teachers to help you organize your club
-* Meet at least twice a week, maybe three times, or if you're really serious, everyday.
+* Enlist one of your teachers to help you organize your club
+* Meet at least twice a week, maybe three times, or if you're serious, everyday.
+* Work from the classroom, library, and home!
 * Rock out the steps!
 * Don't stop!
