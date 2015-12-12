@@ -15,7 +15,7 @@ Operation Spark offers the quickest path to employment as a software engineer. Y
     * Students come away with a project-based portfolio.
     
     
-* **Midway:** (Prerequisites : Prep, Bootcamp) In the Midway program, students work with mentors to complete a series of real-world projects.  Students must meet project deadlines.  The program leans heavily on the use of industrial workflow and team communication. Graduates of the Jr Ready can expect to earn a paid internship or a position as a junior software developer.
+* **Midway:** (Prerequisites : Prep, Bootcamp) In the Midway program, students work with mentors to complete a series of real-world projects.  Students must meet project deadlines.  The program leans heavily on the use of industrial workflow and team communication. Graduates of the Midway can expect to earn a paid internship or a position as a junior software developer.
     
     * 6 weeks, 6 projects, mentoring, professional workflow.
     
