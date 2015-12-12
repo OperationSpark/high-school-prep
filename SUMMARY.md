@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Take Away](take_away.md)
-* [About Operation Spark](about_operation_spark.md)
 * [Problem Solving](problem_solving.md)
 * [Step 1 : Get Started](step-one-get-started.md)
 * [Step 2 : Typing Skills](step-two-typing-skills.md)
@@ -12,5 +11,6 @@
 * [Step 6 : A Smarter Way to Learn JavaScript](step-six-a-smarter-way-to-learn-javascript.md)
 * [Step 7 : Workshop](step-seven-workshop.md)
 * [Step 8 : Rock the Interview and Quiz](step-eight-rock-the-interview-and-quiz.md)
+* [About Operation Spark](about_operation_spark.md)
 * Continued Learning
 
