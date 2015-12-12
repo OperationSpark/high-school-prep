@@ -44,7 +44,9 @@ Once you've completed all Prep steps, if you want to move on to an awesome caree
 
 Please do all the steps, and do them in the proper order.
 
-Again, please remember, **the Prep material MUST BE 100% complete**. You will NEED to know this material come day-one of Bootcamp, so please make note of this, and please do not let anyone tell you that you can skip any of these steps or any part of these steps.  
+Again, please remember, **the Prep material MUST BE 100% complete**. You will NEED to know this material come day-one of Bootcamp, so please make note of this, and please do not let anyone tell you that you can skip any of these steps or any part of these steps.
+
+##Take Away
 
 See the **Take Away** section for topics terms and concepts you should know by the end of the Prep program.  Make sure you understand all topics before taking the end-of-prep interview and coding quiz.
 
