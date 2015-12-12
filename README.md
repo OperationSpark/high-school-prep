@@ -7,16 +7,19 @@ We're super excited to start coding together! You will learn to write HTML, CSS 
 
 Operation Spark offers the quickest path to employment as a software engineer. You can go from **High School to High Wage** in less than six months!
 
-### High School to High Wage
+## High School to High Wage
 
-We're offering two programs to you while you're still in high-school:
+There's three parts to Operation Spark, and we're offering two of them to you while you're _still in high-school_:
 
-1. Prep: A self-guided intro to software development building websites and games.
-2. Bootcamp: A month long study of JavaScript programming
+1. Prep: A self-guided intro to software development, building websites and games.
+2. Bootcamp: A month long study of JavaScript programming.
 
-The final 
+The third part of our programming is available to you upon high school graduation.
 
-### Prep
+4. Midway
+5. Immersion
+
+## Prep
 
 The Prep program will introduce you to what life is like as a professional software developer. It is also designed to prepare you to take the next step in our training, which is why we called the program, Prep!
 
