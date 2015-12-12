@@ -3,6 +3,7 @@ Operation Spark : Prep
 ===
 ## Welcome Agent!
 <img src="halle.png" width="100" style="float: right;">
+
 We're super excited to start coding together and building websites, apps and games! 
 
 Prep program is a collection of resources, coding exercises and projects that introduce you to the world of software development.
