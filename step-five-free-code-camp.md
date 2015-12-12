@@ -24,7 +24,7 @@ For Operation Spark's Prep program, you are only required to complete sections 6
 
 ##Rock Star
 
-Many of our successful students, however, completed sections 1 through 9. We would like to see you complete sections 1 through 9. Here's the breakdown: 
+Many of our successful students, however, completed sections 1 through 9 of Free Code Camp. If you're serious about learning, you'll have no problem completing sections 1 through 9. Take the time over a semester to rock it out. Here's the breakdown: 
 
 1. (10 minutes) [Get Started with Free Code Camp](http://www.freecodecamp.com/map#get-started-with-free-code-camp)
 2. (5 hours) [HTML5 and CSS](http://www.freecodecamp.com/map#html5-and-css)
@@ -34,5 +34,5 @@ Many of our successful students, however, completed sections 1 through 9. We wou
 6. (5 hours) [Basic JavaScript](http://www.freecodecamp.com/map#basic-javascript)
 7. (2 hours) [Object Oriented and Functional Programming](http://www.freecodecamp.com/map#object-oriented-and-functional-programming)
 
-Total coding and instructional time: 20 hours and 30 minutes.
+**Total coding and instructional time: 20 hours and 30 minutes.**
 
