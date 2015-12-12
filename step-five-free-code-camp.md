@@ -9,9 +9,15 @@ on [Free Code Camp](http://freecodecamp.com) is to **register via GitHub**.
 
 **IMPORTANT : MAKE SURE YOU LOGIN USING GITHUB, OR YOU WILL LOSE YOUR CHANGES!**
 
+##The Map
+
+Free Code Camp lists all their steps on their map page:
+
+http://www.freecodecamp.com/map
+
 ##Required Sections
 
-For Operation Spark's Prep program, you are only required to complete sections 6 and 7
+For Operation Spark's Prep program, you are only required to complete sections 6 and 7 listed on the [MAP](http://www.freecodecamp.com/map):
 
 * (5 hours) [Basic JavaScript](http://www.freecodecamp.com/map#basic-javascript)
 * (2 hours) [Object Oriented and Functional Programming](http://www.freecodecamp.com/map#object-oriented-and-functional-programming)
