@@ -8,7 +8,7 @@ The first thing we will cover is some basic understanding of the Internet and ge
 
 **Make sure you logged-in to Khan Academy while you work! If you're not logged-in, you will lose your progress!**
 
-[](https://www.khanacademy.org/login?continue=%2Fcomputing%2Fcomputer-science%2Finternet-intro)
+[Click here to login to Khan Academy, and select Google as your login option.](https://www.khanacademy.org/login?continue=%2Fcomputing%2Fcomputer-science%2Finternet-intro)
 
 ##1.2 Join Our Classroom
 
