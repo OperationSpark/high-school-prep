@@ -6,7 +6,11 @@ We can use JavaScript to build [dynamic websites](https://en.wikipedia.org/wiki/
 
 Let's get you up and running with JavaSript!
 
-**Using your Google account**, sign in to [Khan Academy](https://www.khanacademy.org/login?continue=%2Fcomputing%2Fcomputer-programming%2Fprogramming#).
+##Login to Khan Academy with Google
+
+**Make sure you logged-in to Khan Academy while you work! If you're not logged-in, you will lose your progress!**
+
+##Join Our Classroom
 
 If you haven't already done so, you'll need to add yourself to our classroom so we can track your progress:
 
@@ -14,6 +18,8 @@ If you haven't already done so, you'll need to add yourself to our classroom so 
 * Find the "Add a coach" field, enter the class code **82G9G3**
 
 Once that's complete, begin the basic JavaScript course:
+
+##Complete Intro to JS: Drawing & Animation
 
 https://www.khanacademy.org/computing/computer-programming/programming
 
