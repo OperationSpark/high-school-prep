@@ -1,15 +1,22 @@
 # Step 1 : Get Started
 
-If you want to build awesome websites, video games and learn to code, start a software club at your school! Challenge each other to finish each step. Who will finish first? Host a competition - who has the best website?
+The first thing we will cover is some basic understanding of the Internet and web development. To start, we'll be using Khan Academy, which hosts a set of awesome videos and exercises on programming topics. Don't underestimate the value of these videos. Print out your **take away** notes page, and when you come across topics in the videos that relate, take notes. You must watch all videos and complete all projects.
 
-Here's some tips to get you started:
+So that we can track your progress, we need to get you set-up in our classroom at Khan Academy:
 
-* Enlist one of your teachers to help you organize your club.
-* Meet at least twice a week, maybe three times, or if you're serious, everyday.
-* Work from the classroom, library, and home!
-* Rock out the steps!
-* Don't stop coding! Never stop coding! Build things! Build all the things!
+##Join Our Khan Academy Classroom
 
-The next part of getting started is to complete this tract of Khan Academy:
+**Using your gmail account**, sign in to [Khan Academy](https://www.khanacademy.org). Ensure your username is your first and last name, for example ShebaTurk.
+
+You'll need to add yourself to our classroom so we can track your progress:
+* Visit [khanacademy.org/coaches](khanacademy.org/coaches)
+* Find the "Add a coach" field, enter the class code **82G9G3**
+
+
+Once you've joined our classroom, complete the following two sections of Khan Academy.
+
+##Intro to the Internet
 
 https://www.khanacademy.org/computing/computer-science/internet-intro
+
+##Intro to HTML and CSS
