@@ -13,5 +13,5 @@
 * [Step 8 : Rock the Interview and Quiz](step-eight-rock-the-interview-and-quiz.md)
 * [Continued Learning](continued-learning.md)
 * [About Operation Spark](about_operation_spark.md)
-* Tips for Suceeding
+* [Tips for Suceeding](tips-for-suceeding.md)
 
