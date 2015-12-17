@@ -10,6 +10,8 @@ Let's get you up and running with JavaSript!
 
 **Make sure you logged-in to Khan Academy while you work! If you're not logged-in, you will lose your progress!**
 
+[Click here to login to Khan Academy, and select Google as your login option.](https://www.khanacademy.org/login?continue=%2Fcomputing%2Fcomputer-programming%2Fprogramming)
+
 ##Join Our Classroom
 
 If you haven't already done so, you'll need to add yourself to our classroom so we can track your progress:
