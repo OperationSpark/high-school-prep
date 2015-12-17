@@ -18,6 +18,8 @@ https://www.khanacademy.org/computing/computer-science/internet-intro
 
 We're going to get our hands dirty with web development, so let's touch on the basics, first:
 
+https://www.khanacademy.org/computing/computer-programming/html-css
+
 
 
 
