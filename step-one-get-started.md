@@ -4,7 +4,12 @@ The first thing we will cover is some basic understanding of the Internet and ge
 
 [Print out your **take away** notes page](https://docs.google.com/document/d/1s5rlBHHKQIjQ7OMvwpTEQsgWWSZPIAUMwUB0J0U8tjE/edit?usp=sharing), and when you come across topics in the videos that relate, take notes. You must watch each video and complete any exercises. We will check your work.
 
-Ensure you joined our Khan Academy classroom. If you've yet to do so, review the section, Required Accounts. **Make sure you logged-in to Khan Academy while you work! If you're not logged-in, you will lose your progress!**
+If you haven't already done so, you'll need to add yourself to our classroom so we can track your progress:
+
+* Visit [khanacademy.org/coaches](khanacademy.org/coaches)
+* Find the "Add a coach" field, enter the class code **82G9G3**
+
+**Make sure you logged-in to Khan Academy while you work! If you're not logged-in, you will lose your progress!**
 
 Complete the following two sections of Khan Academy:
 
