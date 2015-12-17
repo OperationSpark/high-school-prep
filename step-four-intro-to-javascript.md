@@ -14,7 +14,7 @@ Let's get you up and running with JavaSript!
 
 ##4.2 Join Our Classroom
 
-If you haven't already done so, you'll need to add yourself to our classroom so we can track your progress:
+**If you haven't already done so**, you'll need to add yourself to our classroom so we can track your progress:
 
 * Visit [khanacademy.org/coaches](khanacademy.org/coaches)
 * Find the "Add a coach" field, enter the class code **82G9G3**
