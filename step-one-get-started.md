@@ -1,8 +1,6 @@
-# Step 1 : Get Started
+# The Internet
 
-The first thing we will cover is some basic understanding of the Internet and general web development. To start, we'll be using Khan Academy, which hosts a set of awesome videos and exercises on programming topics.
-
-[Use your **take away** notes page](https://docs.google.com/document/d/1s5rlBHHKQIjQ7OMvwpTEQsgWWSZPIAUMwUB0J0U8tjE/edit?usp=sharing), and when you come across topics in the videos listed in the take away, take notes. You must watch each video and complete any exercises. We will check your work.
+We're going to learn how the Internet works.
 
 ##1.1 Login to Khan Academy with Google
 
