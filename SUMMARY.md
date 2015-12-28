@@ -1,9 +1,9 @@
 # Summary
 
-* [Introduction](README.md)
 * [Welcome](welcome.md)
    * [Tips for Suceeding](tips-for-suceeding.md)
    * [Problem Solving](problem_solving.md)
+   * [Introduction](README.md)
    * [Take Away](take_away.md)
 * [Getting Started](getting-started.md)
    * [Required Accounts](required-accounts.md)
