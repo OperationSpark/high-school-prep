@@ -16,7 +16,7 @@ The idea here is to remain as neutral as possible in your professional communica
 
 gracejones@gmail.com
 
-If your first and last name are taken, try adding a postfix, something semantic like the short form for your city of birth:
+If your first and last name are already in use, try adding a postfix, something semantic like the short form for your city of birth:
 
 gracejonesnola@gmail.com
 
@@ -28,6 +28,6 @@ Students need a GitHub account and will need to remember their GitHub username a
 
 GitHub is a place on the Internet where we can store code! It's a cool social coding platform, kind of like Facebook for coders.
 
-Click on the following link to create a GitHub account. Remember, be professional when choosing a username. Try to use the same username you used for Google.
+Click on the following link to create a GitHub account. Remember, be professional when choosing a username. For consistancy, try to use the same username you used for Google.
 
 https://github.com/join
