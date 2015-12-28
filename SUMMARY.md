@@ -5,7 +5,7 @@
    * [Problem Solving](problem_solving.md)
    * [Take Away](take_away.md)
 * [Getting Started](getting-started.md)
-   * Advice on Creating Usernames and Passwords
+   * [Advice on Creating Usernames and Passwords](advice-on-creating-usernames-and-passwords.md)
    * [Required Accounts](required-accounts.md)
    * [The Internet, HTML and CSS](step-one-get-started.md)
    * [Step 2 : Typing Skills](step-two-typing-skills.md)
