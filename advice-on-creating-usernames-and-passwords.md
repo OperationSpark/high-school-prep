@@ -18,7 +18,7 @@ For consistency, once you have a username for a Google account, try to use the s
 
 **Passwords**
 
-Strong passwords are advisable. Do not use full words or details of your name, address or birthdate. Passwords using these words are too easily cracked.
+Strong passwords are advisable. Do not use full words or details of your name, address or birthdate. Passwords using these types of words are easier to crack.
 
 The best approach is to create a passphrase. A passphrase is a phrase that is meaningful to you, like the first stanza of lyrics from your favorite song.
 
