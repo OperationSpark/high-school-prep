@@ -5,10 +5,10 @@
    * [Problem Solving](problem_solving.md)
    * [Take Away](take_away.md)
 * [Getting Started](getting-started.md)
+   * Advice on Creating Usernames and Passwords
    * [Required Accounts](required-accounts.md)
    * [The Internet, HTML and CSS](step-one-get-started.md)
    * [Step 2 : Typing Skills](step-two-typing-skills.md)
-   * Advice on Creating Usernames and Passwords
 * [Your Own Website](step-three-first-website-project.md)
 * [Programming Chops](programming-chops.md)
    * [Intro to JavaScript](step-four-intro-to-javascript.md)
