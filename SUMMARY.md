@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Take Away](take_away.md)
 * [Tips for Suceeding](tips-for-suceeding.md)
+* [Welcome](welcome.md)
 * [Problem Solving](problem_solving.md)
 * [Required Accounts](required-accounts.md)
 * [Step 1 : Get Started](step-one-get-started.md)
@@ -15,5 +16,4 @@
 * [Step 8 : Rock the Interview and Quiz](step-eight-rock-the-interview-and-quiz.md)
 * [Continued Learning](continued-learning.md)
 * [About Operation Spark](about_operation_spark.md)
-* [Welcome](welcome.md)
 
