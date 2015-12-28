@@ -8,6 +8,7 @@
    * [Required Accounts](required-accounts.md)
    * [The Internet, HTML and CSS](step-one-get-started.md)
    * [Step 2 : Typing Skills](step-two-typing-skills.md)
+   * Advice on Creating Usernames and Passwords
 * [Your Own Website](step-three-first-website-project.md)
 * [Programming Chops](programming-chops.md)
    * [Intro to JavaScript](step-four-intro-to-javascript.md)
