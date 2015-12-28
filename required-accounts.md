@@ -28,4 +28,6 @@ Students need a GitHub account and will need to remember their GitHub username a
 
 GitHub is a place on the Internet where we can store code! It's a cool social coding platform, kind of like Facebook for coders.
 
+Click on the following link to create a GitHub account. Remember, be professional when choosing a username. Try to use the same username you used for Google.
+
 https://github.com/join
