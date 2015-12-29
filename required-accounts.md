@@ -1,6 +1,6 @@
 # Required Accounts
 
-##Google
+##1. Google
 
 Firstly, you MUST signup for a Google Account, and you must remember your Google username and password.
 
@@ -10,7 +10,7 @@ A Google account gives you access to great, free email. The Google platform give
 
 Pick a professional username! If you already have a Google account, **make sure your username is professional!**
 
-##GitHub
+##2. GitHub
 
 Students need a GitHub account and will need to remember their GitHub username and password.
 
