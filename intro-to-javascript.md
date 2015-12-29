@@ -1,4 +1,4 @@
-# Step 4 : Intro to JavaScript
+# Intro to JavaScript
 
 JavaScript is the programming language of the Internet. If you're going to become a software developer, you'll need to learn JavaScript.
 
@@ -6,22 +6,13 @@ We can use JavaScript to build [dynamic websites](https://en.wikipedia.org/wiki/
 
 Let's get you up and running with JavaSript!
 
-##4.1 Login to Khan Academy with Google
+##1. Login to Khan Academy with Google
 
 **Make sure you logged-in to Khan Academy while you work! If you're not logged-in, you will lose your progress!**
 
 [Click here to login to Khan Academy, and select Google as your login option.](https://www.khanacademy.org/login?continue=%2Fcomputing%2Fcomputer-programming%2Fprogramming)
 
-##4.2 Join Our Classroom
-
-**If you haven't already done so**, you'll need to add yourself to our classroom so we can track your progress:
-
-* Visit [khanacademy.org/coaches](khanacademy.org/coaches)
-* Find the "Add a coach" field, enter the class code **82G9G3**
-
-Once that's complete, begin the basic JavaScript course:
-
-##4.3 Complete Intro to JS: Drawing & Animation
+##2. Complete Intro to JS: Drawing & Animation
 
 https://www.khanacademy.org/computing/computer-programming/programming
 
