@@ -14,7 +14,7 @@ If you crush it in Prep and want to keep learning (and we hope you do), here's s
         3. https://www.khanacademy.org/computing/computer-science/algorithms
         4. https://www.khanacademy.org/computing/computer-programming/sql
     ---
-2. **Free Code Camp:** As mentioned, sections 1 though 9 of Free Code Camp will give you mucho experience. [Go on to complete sections 10 through 22. Crush it by finishing all the Waypoints, Ziplines, Bonfires and Basejump projects!](http://www.freecodecamp.com/map) These exercises cover a wide range of real-life software creation.
+2. **Free Code Camp:** As mentioned, sections 1 though 7 of Free Code Camp will give you mucho experience. [Go on to complete sections 10 through 22. Crush it by finishing all the Waypoints, Ziplines, Bonfires and Basejump projects!](http://www.freecodecamp.com/map) These exercises cover a wide range of real-life software creation.
     
     We have Many of our students that do well in Operation Spark completed sections 1 through 9 of Free Code Camp. If you're serious about learning, you'll have no problem completing sections 1 through 9. Take the time over a semester to rock it out. Here's the breakdown: 
     
