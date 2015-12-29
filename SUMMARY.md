@@ -1,7 +1,7 @@
 # Summary
 
 * [Welcome](README.md)
-* [Welcome](welcome.md)
+* [First Things First](first-things-first.md)
    * [Tips for Suceeding](tips-for-suceeding.md)
    * [Problem Solving](problem_solving.md)
    * [Take Away](take_away.md)
