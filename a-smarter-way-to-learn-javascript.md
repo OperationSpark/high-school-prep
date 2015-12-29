@@ -1,6 +1,6 @@
 # A Smarter Way to Learn JavaScript
 
-Read and do all exercises in **A Smarter Way to Learn JavaScript**!
+Read and complete all exercises in **A Smarter Way to Learn JavaScript**!
 
 This is a great introductory book focusing on the fundamentals of JavaScript. The book breaks down into sections the basics of JavaScript.  And for each topic, there's accompanying online coding exercises.
 
