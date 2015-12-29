@@ -12,7 +12,7 @@
    * [HTML & CSS](html-&-css.md)
 * [Your Own Website](your-own-website.md)
 * [Programming Chops](programming-chops.md)
-   * [Intro to JavaScript](step-four-intro-to-javascript.md)
+   * [Intro to JavaScript](intro-to-javascript.md)
    * [Free Code Camp](step-five-free-code-camp.md)
    * [A Smarter Way to Learn JavaScript](step-six-a-smarter-way-to-learn-javascript.md)
 * [Rock the Interview and Quiz](rock-the-interview-and-quiz.md)
