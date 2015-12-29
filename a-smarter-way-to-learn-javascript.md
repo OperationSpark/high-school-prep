@@ -1,4 +1,4 @@
-# Step 6 : A Smarter Way to Learn JavaScript
+# A Smarter Way to Learn JavaScript
 
 Read and do all exercises in **A Smarter Way to Learn JavaScript**!
 
