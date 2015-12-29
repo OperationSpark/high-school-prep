@@ -1,3 +1,3 @@
 # Programming Chops
 
-If you want write cool apps and games, you've got to learn to write some code!
+If you want write cool apps and games, you've got to learn to write some code! In this section, we're going to get your coding chops up to speed by learning some JavaScript. We'll also build some web projects.
