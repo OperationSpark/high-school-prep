@@ -10,7 +10,7 @@
    * [Required Accounts](required-accounts.md)
    * [The Internet](the-internet.md)
    * [HTML & CSS](html-&-css.md)
-* [Your Own Website](step-three-first-website-project.md)
+* [Your Own Website](your-own-website.md)
 * [Programming Chops](programming-chops.md)
    * [Intro to JavaScript](step-four-intro-to-javascript.md)
    * [Free Code Camp](step-five-free-code-camp.md)
