@@ -14,6 +14,8 @@ Let's get you up and running with JavaSript!
 
 ##2. Complete Intro to JS: Drawing & Animation
 
+Watch all the videos and complete all the coding exercises, and you'll be on well your way to being a rock start coder!
+
 https://www.khanacademy.org/computing/computer-programming/programming
 
 Little know fact: The guy who started Khan Academy, Sal Khan, is from Metairie!
