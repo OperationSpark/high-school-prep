@@ -14,7 +14,7 @@
 * [Programming Chops](programming-chops.md)
    * [Intro to JavaScript](intro-to-javascript.md)
    * [Free Code Camp](free-code-camp.md)
-   * [A Smarter Way to Learn JavaScript](step-six-a-smarter-way-to-learn-javascript.md)
+   * [A Smarter Way to Learn JavaScript](a-smarter-way-to-learn-javascript.md)
 * [Rock the Interview and Quiz](rock-the-interview-and-quiz.md)
 * [More](more.md)
    * [Continued Learning](continued-learning.md)
