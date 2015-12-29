@@ -1,14 +1,14 @@
-# Step 2 : Typing Skills
+# Typing Skills
 
 To be a software engineer, you need to be able to type decently with two hands on the keyboard, so let's get you there!
 
-##2.1 Test your Typing Speed
+##1. Test your Typing Speed
 
 Ensure you can type at least 30 words per minute (WPM) by using this website:
 
 [http://typing-speed-test.aoeu.eu/?lang=en](http://typing-speed-test.aoeu.eu/?lang=en)
 
-##2.2 Improve your Typing Skills
+##2. Improve your Typing Skills
 
 If your typing is currently less than 30 WPM, register at typing.com and join our Spark Club typing class by following the signup instructions at:
 
