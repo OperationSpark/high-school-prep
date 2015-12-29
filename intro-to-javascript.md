@@ -10,6 +10,8 @@ Let's get you up and running with JavaSript!
 
 **Make sure you logged-in to Khan Academy while you work! If you're not logged-in, you will lose your progress!**
 
+**Make sure you've joined our Khan Academy classroom (See: [Getting Started](getting-started.md))**
+
 [Click here to login to Khan Academy, and select Google as your login option.](https://www.khanacademy.org/login?continue=%2Fcomputing%2Fcomputer-programming%2Fprogramming)
 
 ##2. Complete Intro to JS: Drawing & Animation
