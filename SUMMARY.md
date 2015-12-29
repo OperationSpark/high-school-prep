@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Welcome](README.md)
 * [Welcome](welcome.md)
    * [Tips for Suceeding](tips-for-suceeding.md)
    * [Problem Solving](problem_solving.md)
