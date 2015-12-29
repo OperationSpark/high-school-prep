@@ -7,7 +7,7 @@
 * [Getting Started](getting-started.md)
    * [Advice on Creating Usernames and Passwords](advice-on-creating-usernames-and-passwords.md)
    * [Required Accounts](required-accounts.md)
-   * [The Internet, HTML and CSS](step-one-get-started.md)
+   * [The Internet](the-internet.md)
    * [Step 2 : Typing Skills](step-two-typing-skills.md)
    * [HTML & CSS](html-&-css.md)
 * [Your Own Website](step-three-first-website-project.md)
