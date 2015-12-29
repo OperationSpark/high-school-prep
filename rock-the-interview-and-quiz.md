@@ -1,4 +1,4 @@
-# Step 8 : Rock the Interview and Quiz
+# Rock the Interview and Quiz
 
 To move on to Bootcamp, students must join us for an interview and take and pass a coding quiz and interview.
 
