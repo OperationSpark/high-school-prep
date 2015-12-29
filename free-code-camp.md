@@ -17,16 +17,20 @@ http://www.freecodecamp.com/map
 
 ##2. Required Sections
 
-For Operation Spark's Prep program, **you are only required to complete sections 6 and 7 of Free Code Camp, listed on the [MAP](http://www.freecodecamp.com/map):
+For Operation Spark's Prep program, **you must complete only sections 6 and 7 of Free Code Camp**, listed on the [MAP](http://www.freecodecamp.com/map):
 
 * (5 hours) [Basic JavaScript](http://www.freecodecamp.com/map#basic-javascript)
 * (2 hours) [Object Oriented and Functional Programming](http://www.freecodecamp.com/map#object-oriented-and-functional-programming)
 
-##5.3 Rock Star
+##3. Rock Star
 
-You are not required to complete the Rock Star section. Still, if you've come this far, why stop learning now?
+**You are not required to complete this Rock Star section**. Still, if you've come this far, why stop learning now?
 
-Many Operation Spark students completed sections 1 through 7 of Free Code Camp. They found the exercises helpful. If you're serious about learning, you'll have no problem completing sections 1 through 9. Take the time over a semester to rock it out. Here's the breakdown: 
+Many Operation Spark students completed sections 1 through 7 of Free Code Camp. Some completed the whole program! They found these exercises helpful. 
+
+If you're serious about learning, you'll have no problem completing sections 1 through 7. Take the time over a semester to rock it out. Continuing to hack away by building something is the best way to learn!
+
+Here's the breakdown: 
 
 1. (10 minutes) [Get Started with Free Code Camp](http://www.freecodecamp.com/map#get-started-with-free-code-camp)
 2. (5 hours) [HTML5 and CSS](http://www.freecodecamp.com/map#html5-and-css)
