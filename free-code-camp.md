@@ -1,4 +1,4 @@
-# Step 5 : Free Code Camp
+# Free Code Camp
 
 Free Code Camp is an amazing resource for learning to build software projects. There are interactive lessons, projects, and an online chat group where you can get immediate help!
 
