@@ -4,7 +4,7 @@
 
 It's best to represent ourselves in a professional manner on the Internet. Your username might provide evaluation for potential employers. Given this, it's best to create a username that is neutral.
 
-Certain names are fine for use between you and your friends. But, names like flyboygmoney@gmail.com are not appropriate for professional representation.
+Certain names are fine for use between you and your friends. But, names like flyboygmoney@gmail.com may not be appropriate for professional representation. 
 
 Again, the idea here is to remain as neutral as possible in your professional communication.  For your Google username, you should use your real name, first and last:
 
@@ -14,7 +14,7 @@ If your first and last name are in use, try adding a postfix, something short, l
 
 rikiajonesnola@gmail.com
 
-For consistency, once you have a username for a Google account, try to use the same username on other platforms. Some platforms will allow you to authenticate with Google anyway, so it's a great gateway identity.
+For consistency, once you have a username for a Google account, try to use the same username on other platforms.
 
 **Passwords**
 
