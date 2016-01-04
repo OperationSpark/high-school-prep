@@ -15,6 +15,7 @@ Step by step videos listed here:
 1. [Advice on Creating Usernames & Passwords](https://www.youtube.com/watch?v=fZKPd5eQN58)
 2. [Required Accounts](https://www.youtube.com/watch?v=p2GqKPnBynQ)
 3. [Create a Google Account](https://www.youtube.com/watch?v=nUAg3MEfFN8)
+4. [Create & Verify a GitHub Account](https://www.youtube.com/watch?v=ZRDAAjTYoOY)
 
 
 
