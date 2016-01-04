@@ -16,6 +16,7 @@ Step by step videos listed here:
 2. [Required Accounts](https://www.youtube.com/watch?v=p2GqKPnBynQ)
 3. [Create a Google Account](https://www.youtube.com/watch?v=nUAg3MEfFN8)
 4. [Create & Verify a GitHub Account](https://www.youtube.com/watch?v=ZRDAAjTYoOY)
+5. [Create a GitHub Repository for our Website Project](https://www.youtube.com/watch?v=RqrQYY_qS6M)
 
 
 
