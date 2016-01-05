@@ -20,6 +20,7 @@ Step by step videos listed here:
 6. [Sign into Cloud9 with GitHub](https://youtu.be/T8Dt5WOeXgk)
 7. [Create a Cloud9 Workspace for our Website Project](https://youtu.be/NMSCPhLVUGc)
 8. [Getting to Know the Cloud9 Workspace](https://youtu.be/__wWBTqpFsA)
+9. [Create the index.html File](https://youtu.be/1IGcgxbbCT0)
 
 
 
