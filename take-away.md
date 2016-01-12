@@ -10,7 +10,7 @@ There's more reading resources online at Operation Spark that cover all topics a
 
 https://github.com/OperationSpark/javascript-wiki/wiki
 
-## The Deets
+## Concepts we'll cover
 
 Here’s what you should understand at the end of Prep:
 
