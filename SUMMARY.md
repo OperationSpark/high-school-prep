@@ -19,5 +19,5 @@
 * [Rock the Interview and Quiz](rock-the-interview-and-quiz.md)
 * [More](more.md)
    * [Continued Learning](continued-learning.md)
-   * [About Operation Spark](about_operation_spark.md)
+   * [About Operation Spark](about-operation-spark.md)
 
