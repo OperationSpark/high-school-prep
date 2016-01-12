@@ -4,7 +4,7 @@
 * [First Things First](first-things-first.md)
    * [Tips for Suceeding](tips-for-suceeding.md)
    * [Problem Solving](problem_solving.md)
-   * [Take Away](take_away.md)
+   * [Take Away](take-away.md)
 * [Getting Started](getting-started.md)
    * [Typing Skills](typing-skills.md)
    * [Advice on Creating Usernames and Passwords](advice-on-creating-usernames-and-passwords.md)
