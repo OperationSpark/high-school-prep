@@ -10,7 +10,7 @@ Detailed written instructions are here:
 
 [https://github.com/OperationSpark/first-website/blob/master/README.md](https://github.com/OperationSpark/first-website/blob/master/README.md)
 
-Step by step videos listed here:
+Step by step videos listed below. The **TODO** steps align with [the written instructions](https://github.com/OperationSpark/first-website/blob/master/README.md):
 
 1. [Advice on Creating Usernames & Passwords](https://www.youtube.com/watch?v=fZKPd5eQN58)
 2. [Required Accounts](https://www.youtube.com/watch?v=p2GqKPnBynQ)
@@ -20,7 +20,8 @@ Step by step videos listed here:
 6. [Sign into Cloud9 with GitHub](https://youtu.be/T8Dt5WOeXgk)
 7. [Create a Cloud9 Workspace for our Website Project](https://youtu.be/NMSCPhLVUGc)
 8. [Getting to Know the Cloud9 Workspace](https://youtu.be/__wWBTqpFsA)
-9. [Create the index.html File](https://youtu.be/1IGcgxbbCT0)
+9. [TODO 1 : Create the index.html File](https://youtu.be/1IGcgxbbCT0)
+10. [TODO 2 - 3 : Create basic HTML tags](https://youtu.be/fJBxrCHiaqk)
 
 
 
