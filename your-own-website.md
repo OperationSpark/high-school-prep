@@ -20,9 +20,9 @@ Here's a set of step by step videos for the website project. The **TODO** steps,
 6. [Sign into Cloud9 with GitHub](https://youtu.be/T8Dt5WOeXgk)
 7. [Create a Cloud9 Workspace for our Website Project](https://youtu.be/NMSCPhLVUGc)
 8. [Getting to Know the Cloud9 Workspace](https://youtu.be/__wWBTqpFsA)
-9. [TODO 1 : Create the index.html File](https://youtu.be/1IGcgxbbCT0)
-10. [TODO 2 - 3 : Create basic HTML tags](https://youtu.be/fJBxrCHiaqk)
-11. [TODO 4 : Add a `<title>` tag to the `<head>` tag](https://youtu.be/vgh_7jr4SLk)
+9. [**TODO 1** : Create the index.html File](https://youtu.be/1IGcgxbbCT0)
+10. [**TODO 2 - 3** : Create basic HTML tags](https://youtu.be/fJBxrCHiaqk)
+11. [**TODO 4** : Add a `<title>` tag to the `<head>` tag](https://youtu.be/vgh_7jr4SLk)
 
 
 
