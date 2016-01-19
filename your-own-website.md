@@ -23,6 +23,7 @@ Here's a set of step by step videos for the website project. The **TODO** steps,
 9. [**TODO 1** : Create the index.html File](https://youtu.be/1IGcgxbbCT0)
 10. [**TODO 2 - 3** : Create basic HTML tags](https://youtu.be/fJBxrCHiaqk)
 11. [**TODO 4** : Add a `<title>` tag to the `<head>` tag](https://youtu.be/vgh_7jr4SLk)
+12. [**TODO 5 - 7** : Create HTML Content for our Webpage](https://youtu.be/_UmG_QkLkR0)
 
 
 
