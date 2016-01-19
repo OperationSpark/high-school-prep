@@ -22,6 +22,7 @@ Step by step videos listed below. The **TODO** steps align with [the written ins
 8. [Getting to Know the Cloud9 Workspace](https://youtu.be/__wWBTqpFsA)
 9. [TODO 1 : Create the index.html File](https://youtu.be/1IGcgxbbCT0)
 10. [TODO 2 - 3 : Create basic HTML tags](https://youtu.be/fJBxrCHiaqk)
+11. [TODO 4 : Add a `<title>` tag to the `<head>` tag](https://youtu.be/vgh_7jr4SLk)
 
 
 
