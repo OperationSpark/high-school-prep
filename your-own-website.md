@@ -10,7 +10,7 @@ Detailed written instructions are here:
 
 [https://github.com/OperationSpark/first-website/blob/master/README.md](https://github.com/OperationSpark/first-website/blob/master/README.md)
 
-Step by step videos listed below. The **TODO** steps align with [the written instructions](https://github.com/OperationSpark/first-website/blob/master/README.md):
+Here's a set of step by step videos for the website project. The **TODO** steps, below, align with the TODO steps in [the written instructions](https://github.com/OperationSpark/first-website/blob/master/README.md):
 
 1. [Advice on Creating Usernames & Passwords](https://www.youtube.com/watch?v=fZKPd5eQN58)
 2. [Required Accounts](https://www.youtube.com/watch?v=p2GqKPnBynQ)
