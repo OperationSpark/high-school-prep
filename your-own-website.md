@@ -26,7 +26,7 @@ Here's a set of step by step videos for the website project. The **TODO** steps,
 12. [**TODO 5 - 7** : Create HTML Content for our Webpage](https://youtu.be/_UmG_QkLkR0)
 13. [Serve your Website while Developing](https://youtu.be/KIQrcgHOyBM)
 14. [Cloud9 Pitfalls : Some annoying bugs in Cloud9](https://youtu.be/c6PtKAx6iu8)
-15. [**TODO 8** : Add an Image](https://youtu.be/OIAbhrDQPmQ)
+15. [**TODO 8** : Add an Image using the `<img>` tag](https://youtu.be/OIAbhrDQPmQ)
 16. [** TODO 9** : Add More Content & Navigation](https://youtu.be/IcPMlqvWQok)
 17. 
 
