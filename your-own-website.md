@@ -27,8 +27,10 @@ Here's a set of step by step videos for the website project. The **TODO** steps,
 13. [Serve your Website while Developing](https://youtu.be/KIQrcgHOyBM)
 14. [Cloud9 Pitfalls : Some annoying bugs in Cloud9](https://youtu.be/c6PtKAx6iu8)
 15. [**TODO 8** : Add an Image using the `<img>` tag](https://youtu.be/OIAbhrDQPmQ)
-16. [** TODO 9** : Add More Content & Navigation](https://youtu.be/IcPMlqvWQok)
-17. 
+16. [** TODO 9 - 10** : Add More Content & Navigation](https://youtu.be/IcPMlqvWQok)
+17. [** TODO 11 - 12** : Make it Pretty by Adding CSS Styling Rules](https://youtu.be/92MStI8gRu4)
+17. [**TODO 13 ** : Update our .gitignore file ](https://youtu.be/won3zVy5opk)
+18. [** TODO 14 ** : Go Live!](https://youtu.be/5tyUDWO6PO8)
 
 
 
