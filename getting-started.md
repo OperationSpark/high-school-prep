@@ -9,7 +9,7 @@ We'll be using Khan Academy, which hosts a set of awesome videos and exercises o
 **If you haven't already done so**, you'll need to add yourself to our classroom so we can track your progress:
 
 * Visit [khanacademy.org/coaches](khanacademy.org/coaches)
-* Find the "Add a coach" field, enter the class code **82G9G3**
+* Find the "Add a coach" field, enter the class code **PT5M6Z**
 
 ##Take Notes
 
