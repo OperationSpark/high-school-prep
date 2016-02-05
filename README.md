@@ -42,7 +42,7 @@ Once you've completed all Prep steps, if you want to move on to an awesome caree
 
 ## Complete All Prep Steps
 
-Please do all the steps, and do them in the proper order.
+Please do all the steps, and do them in the proper order. **Sections 1 through 5 are requirements for entrance into the Operation Spark Bootcamp**. Section 6, called More, is merely suggested material for continued learning. 
 
 Again, please remember, **the Prep material MUST BE 100% complete**. You will NEED to know this material come day-one of Bootcamp, so please make note of this, and please do not let anyone tell you that you can skip any of these steps or any part of these steps.
 
