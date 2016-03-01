@@ -28,15 +28,34 @@ If you crush it in Prep and want to keep learning (and we hope you do), here's s
     
     **Total coding and instructional time: 20 hours and 30 minutes.**
     ---
-2. **CoderBytes:** This resource is perfect for practicing for coding interviews. [The CoderBytes challenges are perfect for killing time before your date!](https://coderbyte.com/challenges/)
+3. **CoderBytes:** This resource is perfect for practicing for coding interviews. [The CoderBytes challenges are perfect for killing time before your date!](https://coderbyte.com/challenges/)
     
     ---
 
-3. **Code Wars:** Once you're feeling like you could hack Facebook, [try battling it out on Code Wars!](http://www.codewars.com/)
+4. **Code Wars:** Once you're feeling like you could hack Facebook, [try battling it out on Code Wars!](http://www.codewars.com/)
  
     ---
 
-4. **JavaScript, the Weird Parts:** [This video is a great deep dive into the crazy world of JavaScript.](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) Grab some popcorn and nerd out!
+5. **JavaScript, the Weird Parts:** [This video is a great deep dive into the crazy world of JavaScript.](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) Grab some popcorn and nerd out!
+
+6. **A Smarter Way to Learn JavaScript**
+
+    Read and complete all exercises in A Smarter Way to Learn JavaScript!
+
+    This is a great introductory book focusing on the fundamentals of JavaScript. The book breaks down into sections the basics of JavaScript.  And for each topic, there's accompanying online coding exercises.
+
+    Read for 10 minutes, code for 10 minutes, take a break! It's a smarter way to learn JavaScript!
+
+    All Operation Spark students have free access to the book and coding exercises. Please ask your teacher for the password to the online pdf.
+
+<a href="http://www.asmarterwaytolearn.com/js/js_for_spark.pdf" target="_blank">Click here to go to the online version of A Smarter Way to Learn JavaScript</a>
+
+You must complete all exercises listed in the book!
+
+
+
+
+
 
 See you in Bootcamp!
 
