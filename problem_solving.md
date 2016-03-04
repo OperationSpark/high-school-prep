@@ -4,7 +4,7 @@ Before we start, we want you to remember this: Learning to write software is fun
 
 You are an Agent of Awesome, and you can handle this mission. Be patient with yourself and your teachers, and you will succeed. Traits that will help you:
 
-* Be autodidatic - self-directed in your learning.
+* Be autodidactic - self-directed in your learning.
 * You should struggle to find answers, this is a good thing!
 * Try to solve the problem yourself.
 * Next, try to find answers to your problems on the Internet.
@@ -12,7 +12,7 @@ You are an Agent of Awesome, and you can handle this mission. Be patient with yo
 
 Here's some steps to help you when you come up against a problem:
 
-* Make use tools like logging and dubugging.
+* Make use tools like logging and debugging.
 * Google it! Another coder has experienced and solved the same problem, and written about it on the Internet.
 * After struggling for 20 minutes, ask questions, to your fellow students, teachers, and on our Slack channel.
 
