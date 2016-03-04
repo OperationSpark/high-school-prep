@@ -1,4 +1,4 @@
-# Advice on Creating Usernames and Passwords
+# Creating Usernames and Passwords
 
 **Usernames**
 
@@ -20,7 +20,7 @@ For consistency, once you have a username for a Google account, try to use the s
 
 Strong passwords are advisable. Do not use full words or details of your name, address or birth date. Passwords using these types of words are easier to crack.
 
-{}https://youtu.be/lTxoAW056RA{}
+{% youtube %} https://youtu.be/lTxoAW056RA {% endyoutube %}
 
 The best approach is to create a passphrase. A passphrase is a phrase that is meaningful to you, like the first stanza of lyrics from your favorite song.
 
