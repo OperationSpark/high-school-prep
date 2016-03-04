@@ -18,11 +18,19 @@ For consistency, once you have a username for a Google account, try to use the s
 
 **Passwords**
 
-Strong passwords are advisable. Do not use full words or details of your name, address or birthdate. Passwords using these types of words are easier to crack.
+Strong passwords are advisable. Do not use full words or details of your name, address or birth date. Passwords using these types of words are easier to crack.
+
+{}https://youtu.be/lTxoAW056RA{}
 
 The best approach is to create a passphrase. A passphrase is a phrase that is meaningful to you, like the first stanza of lyrics from your favorite song.
 
 To create a password from a passphrase, take the first letter from each word in the phrase. You can capitalize some of them in some pattern, like, capitalize the first and the last letter, or the first and the third.
+
+For example using this phrase: Drew Brees throws touchdowns everyday. 
+
+Your password could be: dBttE457!@
+
+We've taken the first letter of each word, capitalized two, and added some numbers and symbols on the end.
 
 Random letters and numbers make for stronger passwords.  If you use a passphrase, you'll be able to remember your password more readily.
 
