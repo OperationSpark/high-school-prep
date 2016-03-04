@@ -2,20 +2,24 @@
 
 ##1. Google
 
-Firstly, you MUST signup for a Google Account, and you must remember your Google username and password.
+Signup for a Google account, and make sure you remember your username and password.
 
 https://accounts.google.com/signup
 
-A Google account gives you access to great, free email. The Google platform gives you access to productivity tools, like documents and spreadsheets. There's also free file storage through Google Drive. Your Google account also is your passport to YouTube, and other third party platforms.
+A Google account gives you access to free email, productivity tools (like documents and spreadsheets), and free file storage through Google Drive. Your Google account also is your passport to YouTube, and other third party platforms.
 
-Pick a professional username! If you already have a Google account, **make sure your username is professional!**
+If you already have a Google account, **make sure your username is professional!**
 
-##2. GitHub
+## 2. GitHub
 
 Students need a GitHub account and will need to remember their GitHub username and password.
 
-GitHub is a place on the Internet where we can store code! It's a cool social coding platform, kind of like Facebook for coders.
+GitHub is a place on the Internet where we can store code. It's a cool social coding platform, kind of like Facebook for coders.
 
-Click on the following link to create a GitHub account. Remember, be professional when choosing a username. For consistancy, try to use the same username you used for Google.
+Click on the following link to create a GitHub account. Remember, be professional when choosing a username. For consistency, try to use the same username you used for Google. In step 2 the Free plan is chosen by default. 
 
 https://github.com/join
+
+#### 
+
+{% youtube %} https://youtu.be/uUuTYDg9XoI {% endyoutube %}
