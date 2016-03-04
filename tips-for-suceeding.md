@@ -6,7 +6,7 @@ Here's some tips to get you started:
 
 * Enlist one of your teachers to help you organize your club.
 * Meet at least twice a week, maybe three times, or if you're serious, everyday.
-* Work from the classroom, library, and home!
+* Work from the classroom, library, and home.
 * Rock out the steps!
 * Don't stop coding! Never stop coding! Build things! Build all the things!
-* Remeber, **nothing is hard, only new!**
+* Remember, **nothing is hard, only new!**
