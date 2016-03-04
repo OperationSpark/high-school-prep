@@ -20,6 +20,6 @@ Click on the following link to create a GitHub account. Remember, be professiona
 
 https://github.com/join
 
-#### 
+#### Basic of Git and GitHub
 
 {% youtube %} https://youtu.be/uUuTYDg9XoI {% endyoutube %}
