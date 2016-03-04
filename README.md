@@ -9,7 +9,7 @@ Operation Spark offers the quickest path to employment as a software engineer. Y
 
 Does it pay well? You bet! If you're good at writing code, you can earn serious bank! And you don't need to go to university or college to gain the skills to do so. 
 
-Watch this video about the power of coding:
+#### Watch this video about the power of coding:
 {% youtube %}https://youtu.be/nKIu9yen5nc{% endyoutube %}
 
 ## High School to High Wage
