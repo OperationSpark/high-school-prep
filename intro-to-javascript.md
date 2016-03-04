@@ -8,7 +8,7 @@ Let's get you up and running with JavaSript!
 
 ##1. Login to Khan Academy with Google
 
-**Make sure you logged in to Khan Academy while you work! If you're not logged-in, you will lose your progress!**
+**Make sure you logged in to Khan Academy while you work! If you're not logged in, you will lose your progress.**
 
 **Make sure you've joined our Khan Academy classroom (See: [this section](the-internet.md))**
 
@@ -20,4 +20,4 @@ Watch all the videos and complete all the coding exercises, and you'll be on wel
 
 https://www.khanacademy.org/computing/computer-programming/programming
 
-Little known fact: The guy who started Khan Academy, Sal Khan, is from Metairie!
+Little known fact: The guy who started Khan Academy, Sal Khan, is from Metairie.
