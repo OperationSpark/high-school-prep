@@ -22,8 +22,7 @@ There's three parts to Operation Spark, and we're offering two of them to you wh
 
 The third part of our programming is available to you upon high school graduation. Students elect to **take one of the following courses**:
 
-* **Midway:** A project based mentoring program that brings you to the level of a paid internship or junior developer.
-* **Immersion:** A 3 month deep dive, where students master software engineering, studying 6 days a week, 11 hours a day. Graduates of this program are in-demand, and gain immediate employment earning high salaries.
+* **Immersion:** A full-time, 3 month deep dive where students master software engineering. Graduates of this program are in-demand, and gain immediate employment earning high salaries.
 
 The program outlined in this book is **Prep**.
 
@@ -32,13 +31,13 @@ The program outlined in this book is **Prep**.
 
 The Prep program will introduce you to what life is like as a professional software developer. It is also designed to prepare you to take the next step in our training, **Bootcamp**, which is why we called the program, Prep!
 
-We want everyone to try their hand at software development! If you like this material, there's a fantastic career waiting for you in software engineering!
+We want everyone to try their hand at software development. If you like this material, there's a fantastic career waiting for you in software engineering.
 
 ## Next Steps
 
 **To move on in our training to Bootcamp, students must fully complete all eight steps of the Prep program**.  In doing so, you will exhibit the desire, commitment, grit and aptitude to succeed in Operation Spark.
 
-Once you've completed all Prep steps, if you want to move on to an awesome career in software development, <a href="https://operationspark-prep.youcanbook.me/">book an appointment with Operation Spark to complete your end-of-prep interview and coding quiz.</a>
+Once you've completed all Prep steps <a href="https://operationspark-prep.youcanbook.me/">book an appointment with Operation Spark to complete your end-of-prep interview and coding quiz.</a>
 
 ## Complete All Prep Steps
 
