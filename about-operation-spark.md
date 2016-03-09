@@ -34,19 +34,3 @@ Operation Spark offers the quickest path to employment as a software engineer. Y
 
     Throughout the program, we keep every student’s job search in mind. By graduation, they have a solid Github presence, tons of technical interview experience, a personal site, LinkedIn profile and resume. We guide them through their job search with mock interviews, mentoring and more, and ensure they land a great job in software development.
     
-    
-{% exercise %}
-Define a variable `x` equal to 10.
-{% initial %}
-var x =
-{% solution %}
-var x = 10;
-{% validation %}
-assert(x == 10);
-{% context %}
-// This is context code available everywhere
-// The user will be able to call magicFunc in his code
-function magicFunc() {
-    return 3;
-}
-{% endexercise %}
