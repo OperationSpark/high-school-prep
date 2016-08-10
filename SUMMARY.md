@@ -16,7 +16,7 @@
    * [Free Code Camp](free-code-camp.md)
 * [Rock the Interview and Quiz](rock-the-interview-and-quiz.md)
 * [More](more.md)
+   * [The Internet](the-internet.md)
    * [Continued Learning](continued-learning.md)
    * [About Operation Spark](about-operation-spark.md)
-* [The Internet](the-internet.md)
 
