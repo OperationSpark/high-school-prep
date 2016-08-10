@@ -2,7 +2,7 @@
 
 Below are the concepts you should come away with, and on which we will quiz you.
 
-**You will want to make notes on these items as you go through the Prep material and ENSURE you understand them. During your end-of-prep interview, we will ask to see your notes on the list of topics.**
+****You will want to **make notes on these items below** as you go through the Prep material and ENSURE you understand them. During your end-of-prep interview, we will ask to see your notes on the list of topics.****
 
 If you’re fuzzy on some points, Googling is the best way to figure it out.  Be self-directed in your learning and you'll succeed at anything! You should practice and develop the reflex to Google it.
 
@@ -10,7 +10,10 @@ There are more reading resources online at Operation Spark that cover all topics
 
 https://github.com/OperationSpark/javascript-wiki/wiki
 
-## Concepts we'll cover
+In addition to your Prep work, a resource for answers can be found here:
+http://www.w3schools.com/js/default.asp
+
+## Important Concepts
 
 Here’s what you should understand at the end of Prep:
 
