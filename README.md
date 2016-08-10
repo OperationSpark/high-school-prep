@@ -1,7 +1,7 @@
 
 Operation Spark : Prep
 ===
-## Welcome Agent!
+## Welcome Students!
 
 We're super excited to start coding together! You will learn to write HTML, CSS and JavaScript to build websites, apps and games!
 
