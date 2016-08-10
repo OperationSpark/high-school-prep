@@ -15,8 +15,8 @@
    * [Intro to JavaScript](intro-to-javascript.md)
    * [Free Code Camp](free-code-camp.md)
 * [Rock the Interview and Quiz](rock-the-interview-and-quiz.md)
-* [The Internet](the-internet.md)
 * [More](more.md)
    * [Continued Learning](continued-learning.md)
    * [About Operation Spark](about-operation-spark.md)
+* [The Internet](the-internet.md)
 
