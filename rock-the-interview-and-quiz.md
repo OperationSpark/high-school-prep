@@ -1,6 +1,6 @@
 # Rock the Interview and Quiz
 
-To move on to Bootcamp, students must join us for an interview and take and pass a coding quiz and interview.
+To move on to Fundamentals of Software Development, students must join us for an interview and complete a quiz.
 
 Once you've fully completed all previous steps, you qualify to take the end-of-prep quiz. Arrange with Operation Spark to take the end-of-prep coding quiz.
 
@@ -17,7 +17,7 @@ Finally, we have more reading resources online at Operation Spark that cover all
 
 https://github.com/OperationSpark/javascript-wiki/wiki
 
-### Here’s a study guide fot the quiz:
+### Study Guide:
 
 
 1. What are [variables](http://www.w3schools.com/js/js_variables.asp)? How do we define them and why do we use them?
