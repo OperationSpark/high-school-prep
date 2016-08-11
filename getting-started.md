@@ -1,8 +1,7 @@
 # Getting Started
 
-First, we're going to create some required Internet accounts at Google and GitHub. Second, we'll cover a basic understanding of the Internet. Finally, we'll dig into an intro to HTML and CSS. 
+First, we're going to review typing requirements and skills for the course. Second, we are going to cover some advice for creating usernames and passwords. Last, we will create some required Internet accounts for Google and GitHub. 
 
-We'll be using Khan Academy, which hosts a set of awesome videos and exercises on programming topics.
 
 ##Take Notes
 
