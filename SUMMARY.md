@@ -14,7 +14,7 @@
    * [Code Camp](free-code-camp.md)
    * [Code Academy](intro-to-javascript.md)
 * [Interview and Quiz](rock-the-interview-and-quiz.md)
-* [More](more.md)
+* [Additional Resources](more.md)
    * [HTML & CSS](html-&-css.md)
    * [The Internet](the-internet.md)
    * [Continued Learning](continued-learning.md)
