@@ -7,7 +7,7 @@
    * [Take Away](take-away.md)
 * [Getting Started](getting-started.md)
    * [Typing Skills](typing-skills.md)
-   * [Advice on Creating Usernames and Passwords](advice-on-creating-usernames-and-passwords.md)
+   * [Creating Usernames and Passwords](advice-on-creating-usernames-and-passwords.md)
    * [Required Accounts](required-accounts.md)
 * [Prep Assignments](programming-chops.md)
    * [Build Your Own Website](your-own-website.md)
