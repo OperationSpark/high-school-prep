@@ -10,7 +10,7 @@
    * [Advice on Creating Usernames and Passwords](advice-on-creating-usernames-and-passwords.md)
    * [Required Accounts](required-accounts.md)
 * [Programming Chops](programming-chops.md)
-   * [Your Own Website](your-own-website.md)
+   * [Build Your Own Website](your-own-website.md)
    * [Code Camp](free-code-camp.md)
    * [Code Academy](intro-to-javascript.md)
 * [Rock the Interview and Quiz](rock-the-interview-and-quiz.md)
