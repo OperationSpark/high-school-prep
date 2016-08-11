@@ -1,4 +1,4 @@
-# Your Own Website
+# Build Your Own Website
 
 You're now ready to create your own website!
 
