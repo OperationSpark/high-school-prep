@@ -9,7 +9,7 @@
    * [Typing Skills](typing-skills.md)
    * [Advice on Creating Usernames and Passwords](advice-on-creating-usernames-and-passwords.md)
    * [Required Accounts](required-accounts.md)
-* [Programming Chops](programming-chops.md)
+* [Prep Assignments](programming-chops.md)
    * [Build Your Own Website](your-own-website.md)
    * [Code Camp](free-code-camp.md)
    * [Code Academy](intro-to-javascript.md)
