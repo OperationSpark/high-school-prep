@@ -13,7 +13,7 @@
    * [Build Your Own Website](your-own-website.md)
    * [Code Camp](free-code-camp.md)
    * [Code Academy](intro-to-javascript.md)
-* [Rock the Interview and Quiz](rock-the-interview-and-quiz.md)
+* [Interview and Quiz](rock-the-interview-and-quiz.md)
 * [More](more.md)
    * [HTML & CSS](html-&-css.md)
    * [The Internet](the-internet.md)
