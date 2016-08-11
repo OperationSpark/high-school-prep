@@ -1,4 +1,4 @@
-# Fundamentals Course Interview and Quiz
+# Interview and Quiz
 
 To move on to Fundamentals of Software Development, students must join us for an interview and complete a quiz.
 
