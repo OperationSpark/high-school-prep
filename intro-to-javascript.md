@@ -1,4 +1,4 @@
-# Intro to JavaScript
+# Code Academy 
 
 JavaScript is the programming language of the Internet. If you're going to become a software developer, you'll need to learn JavaScript.
 
