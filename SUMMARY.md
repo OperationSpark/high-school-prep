@@ -11,7 +11,7 @@
    * [Required Accounts](required-accounts.md)
 * [Programming Chops](programming-chops.md)
    * [Your Own Website](your-own-website.md)
-   * [Free Code Camp](free-code-camp.md)
+   * [Code Camp](free-code-camp.md)
    * [Intro to JavaScript](intro-to-javascript.md)
 * [Rock the Interview and Quiz](rock-the-interview-and-quiz.md)
 * [More](more.md)
