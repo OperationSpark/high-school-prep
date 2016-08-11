@@ -8,11 +8,11 @@ Certain names are fine for use between you and your friends. But, names like fly
 
 Again, the idea here is to remain as neutral as possible in your professional communication.  For your Google username, you should use your real name, first and last:
 
-rikiajones@gmail.com
+Ex: rikiajones@gmail.com
 
 If your first and last name are in use, try adding a postfix, something short, like the short-form for your city of birth:
 
-rikiajonesnola@gmail.com
+Ex: rikiajonesnola@gmail.com
 
 For consistency, once you have a username for a Google account, try to use the same username on other platforms.
 
